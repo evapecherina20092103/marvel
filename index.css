@@ -22,6 +22,7 @@ main h3 {
 table {
     border-collapse: collapse;
     border: 2px dotted Olive;
+    text-align: center;
 }
 td {
     border: 2px dotted Olive;
