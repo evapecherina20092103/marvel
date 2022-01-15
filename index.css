@@ -1,0 +1,38 @@
+header{
+    background-color: red;
+}
+header h1 {
+    text-align: center;
+    color: GreenYellow;
+}
+header h2 {
+    text-align: center;
+    color: LawnGreen;
+}
+main{
+    background-color: Lavender;
+}
+main p {
+    font-family: sans-serif;
+}
+main h3 {
+    text-align: center;
+    font-size: 23px;
+}
+table {
+    border-collapse: collapse;
+    border: 2px dotted Olive;
+}
+td {
+    border: 2px dotted Olive;
+}
+p {
+    font-size: 18px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+footer a {
+   color: rgb(31, 224, 31); 
+}
